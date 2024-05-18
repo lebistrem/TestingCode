@@ -1,0 +1,22 @@
+{
+  "user1": {
+    "name": "John Doe",
+    "id": "qwertyui",
+    "password": "tt@Tt4422",
+    "verify_password": "tt@Tt4422",
+    "email": "john.doe@example.com",
+    "phone_number": "1234567890",
+    "Terms_number": "term2"
+  },
+  "user2": {
+    "name": "Jane Smith",
+    "id": "qwertyuw",
+    "password": "tt@Tt4422",
+    "password": "tt@Tt4422",
+    "email": "jane.smith@example.com",
+    "phone_number": "9876543210",
+    "mutual": "term1",
+	"representative_name": "Rbuy",
+	"bussiness_registration": "0979931723"
+  }
+}
